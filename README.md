@@ -55,6 +55,30 @@ Circuito para comprobar el Teorema de la MTP
 2. Calcule la potencia consumida por RL, para cada valor dado y anote los
 resultados en la tabla
 
+Potencia calculada teóricamente
+
+![C1](https://user-images.githubusercontent.com/116693260/211461140-f6343794-dd6d-4e84-9d64-95309c66e24f.jpg)
+
+![C2](https://user-images.githubusercontent.com/116693260/211461143-804ed680-aa60-4c49-b434-8e5fff52b271.jpg)
+
+![C3](https://user-images.githubusercontent.com/116693260/211461144-641fd6a4-c896-4a77-89e6-a71395ecbe61.jpg)
+
+![C4](https://user-images.githubusercontent.com/116693260/211461145-f422e718-2150-4719-8e7a-081826d526be.jpg)
+
+![C5](https://user-images.githubusercontent.com/116693260/211461147-7feeedf9-b4b5-4c34-a490-aa19e226e302.jpg)
+
+![C6](https://user-images.githubusercontent.com/116693260/211461149-638c38e5-6834-443a-af8e-3f81e7462703.jpg)
+
+![C7](https://user-images.githubusercontent.com/116693260/211461150-c38f3ab9-d5c7-44bc-ba79-1940bf549307.jpg)
+
+![C8](https://user-images.githubusercontent.com/116693260/211461152-73e99b0a-a107-4542-b08c-bcad407a2feb.jpg)
+
+![C9](https://user-images.githubusercontent.com/116693260/211461153-937c2558-d54c-4005-a30d-452dd93e3122.jpg)
+
+Potencia calculada experimentalmente
+
+![LAB 6_page-0006 1](https://user-images.githubusercontent.com/116693260/211462373-b789779b-770d-44bb-a342-16985d1e91b5.png)
+
 3. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote
 los resultados
 
@@ -78,5 +102,26 @@ los resultados
 
 ![image](https://user-images.githubusercontent.com/116693260/211441587-c640974e-17d6-4ba0-81eb-5e46bfaf39bb.png)
 
+Tabla - Parámetros Eléctricos del circuito.
 
-  
+![Tabla 1](https://user-images.githubusercontent.com/116693260/211461432-c8c94125-0a04-456c-a800-8913df6c7bbe.jpg)
+
+![C10](https://user-images.githubusercontent.com/116693260/211462550-e97f0a1b-467d-425c-ae44-d84337d5ad83.jpg)
+
+![C11](https://user-images.githubusercontent.com/116693260/211462556-1601a1c3-5489-412f-8d3e-d1434704c2ce.jpg)
+
+Calcular errores de las mediciones y comentar los resultados.
+
+![C13](https://user-images.githubusercontent.com/116693260/211461951-763d6015-27b4-4166-a2fa-113a901700f5.jpg)
+
+![C12](https://user-images.githubusercontent.com/116693260/211461962-a36ee79c-f6d9-45e2-b67b-920b3227b977.jpg)
+
+## VIDEO EXPLICATIVO
+
+https://uespe-my.sharepoint.com/:v:/g/personal/dxguallpa_espe_edu_ec/EU_lT-EqwDJGkMzbENqsZEAB5aoDN5j-R7jhvbJKp1v0KQ?e=lU73i7
+
+## CONCLUSIONES
+
+## BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
