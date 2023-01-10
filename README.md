@@ -70,6 +70,13 @@ los resultados
 
 ![image](https://user-images.githubusercontent.com/116693260/211437961-7820e9f7-0708-43e0-96d1-5949ca4cc0fa.png)
 
+![image](https://user-images.githubusercontent.com/116693260/211439511-a6a1512c-9ebb-4713-bf81-8c156f41cc76.png)
+
+![image](https://user-images.githubusercontent.com/116693260/211440835-1f36f038-189c-46ca-aa1d-06db746881d4.png)
+
+![image](https://user-images.githubusercontent.com/116693260/211441574-777e246f-0a7c-4872-b92b-c3924b5756ab.png)
+
+![image](https://user-images.githubusercontent.com/116693260/211441587-c640974e-17d6-4ba0-81eb-5e46bfaf39bb.png)
 
 
   
