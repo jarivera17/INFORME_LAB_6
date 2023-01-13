@@ -122,6 +122,14 @@ https://uespe-my.sharepoint.com/:v:/g/personal/dxguallpa_espe_edu_ec/EU_lT-EqwDJ
 
 ## CONCLUSIONES
 
+* A partir de lo investigado anteriormente, se puede concluir que el Teorema de Máxima Transferencia de Potencia, es cuando una fuente voltaje entrega la máxima transferencia de potencia a una resistencia RL, cuando el valor de RL es igual a la resistencia equivalente de la fuente utilizando teorema de thevenin.
+
+* El Teorema de Máxima Transferencia de Potencia ha permitido determinar que la resistencia de 1 kΩ es la que brinda una mayor potencia en el circuito eléctrico resuelto de forma teórica y por medio de la simulación, se ha determinado que las potencias en las resistencias incrementaban al acercarse al valor de 1.2 kΩ y se reduce al alejarse de la misma.
+
+* En la justificación del video se pude observar la resolución del teorema de máxima transferencia de potencia con cada una de las resistencias dadas, construcción del circuito en el simulador tinkercad, podemos observar como se toman las medidas de corriente y voltaje indicadas. También se realiza el circuito en el software ACDCLAB y medimos la potencia con el vatímetro.
+
+* Considerando que los elementos son ideales, podemos concluir que los datos obtenidos en este circuito eléctrico a partir del Teorema de Máxima Transferencia de potencia son precisos, por lo que podemos decir que el método es muy fiable para resolver este tipo de circuitos eléctricos.
+
 ## BIBLIOGRAFÍA
 
 Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
