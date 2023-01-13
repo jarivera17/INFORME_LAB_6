@@ -82,11 +82,11 @@ Potencia calculada experimentalmente
 3. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote
 los resultados
 
-![image](https://user-images.githubusercontent.com/116693260/211435698-83a96b9f-a2e8-44f7-9e09-bce5baa6a351.png)
+![image](https://user-images.githubusercontent.com/116693260/212345046-b7c52522-b612-49b8-a4c0-9d3abac22c2c.png)
 
-![image](https://user-images.githubusercontent.com/116693260/211435823-16c011a9-4f13-425a-88ca-25ca717a5ab2.png)
+![image](https://user-images.githubusercontent.com/116693260/212345306-703b66fb-9df2-4c00-ae7e-23177b7f24f7.png)
 
-![image](https://user-images.githubusercontent.com/116693260/211436027-cee32b5b-c97c-4728-a72e-22c0fd664105.png)
+![image](https://user-images.githubusercontent.com/116693260/212346137-508968ad-d573-4fee-81d4-36cef5a4add2.png)
 
 ![image](https://user-images.githubusercontent.com/116693260/211436506-be6d92c4-a94e-4b5f-b917-e0972f6758c8.png)
 
